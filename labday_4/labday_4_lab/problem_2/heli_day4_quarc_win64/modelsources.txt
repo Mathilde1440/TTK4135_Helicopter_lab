@@ -1,2 +1,0 @@
-  heli_day4.c
-
